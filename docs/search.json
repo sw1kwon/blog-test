@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/test.html",
-    "href": "posts/test.html",
-    "title": "test",
-    "section": "",
-    "text": "첫 포스트!"
-  },
-  {
     "objectID": "posts/pororo.html",
     "href": "posts/pororo.html",
     "title": "뽀롱뽀롱",
@@ -53,7 +46,7 @@
     "href": "index.html",
     "title": "test",
     "section": "",
-    "text": "Test\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 2, 2025\n\n\ncode\n\n\n장하니 \n\n\n\n\nJan 2, 2025\n\n\n뽀롱뽀롱\n\n\n최다호 \n\n\n\n\nJan 2, 2025\n\n\n프랑스혁명\n\n\n최규빈 \n\n\n\n\nJan 2, 2025\n\n\ntest\n\n\nSoonwonKWON \n\n\n\n\n\nNo matching items"
+    "text": "Test\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 2, 2025\n\n\ncode\n\n\n장하니 \n\n\n\n\nJan 2, 2025\n\n\n뽀롱뽀롱\n\n\n최다호 \n\n\n\n\nJan 2, 2025\n\n\n프랑스혁명\n\n\n최규빈 \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/code.html",

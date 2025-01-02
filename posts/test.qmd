@@ -2,6 +2,9 @@
 title: "test"
 author: "SoonwonKWON"
 date: "01/02/2025"
+draft: true
 ---
 
 첫 포스트!
+
+- sss
