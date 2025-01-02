@@ -7,18 +7,25 @@
     "text": "첫 포스트!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/code.html",
+    "href": "posts/code.html",
+    "title": "code",
     "section": "",
-    "text": "About this blog"
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt \nx = np.random.randn(100)\nplt.plot(x)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "test",
     "section": "",
-    "text": "Test\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 2, 2025\n\n\n뽀롱뽀롱\n\n\n최다호 \n\n\n\n\nJan 2, 2025\n\n\ntest\n\n\nSoonwonKWON \n\n\n\n\n\nNo matching items"
+    "text": "Test\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 2, 2025\n\n\ncode\n\n\n장하니 \n\n\n\n\nJan 2, 2025\n\n\n뽀롱뽀롱\n\n\n최다호 \n\n\n\n\nJan 2, 2025\n\n\ntest\n\n\nSoonwonKWON \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   },
   {
     "objectID": "posts/pororo.html",
