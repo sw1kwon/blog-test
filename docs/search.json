@@ -7,27 +7,6 @@
     "text": "첫 포스트!"
   },
   {
-    "objectID": "posts/code.html",
-    "href": "posts/code.html",
-    "title": "code",
-    "section": "",
-    "text": "import numpy as np\nimport matplotlib.pyplot as plt \nx = np.random.randn(100)\nplt.plot(x)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "test",
-    "section": "",
-    "text": "Test\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 2, 2025\n\n\ncode\n\n\n장하니 \n\n\n\n\nJan 2, 2025\n\n\n뽀롱뽀롱\n\n\n최다호 \n\n\n\n\nJan 2, 2025\n\n\ntest\n\n\nSoonwonKWON \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
     "objectID": "posts/pororo.html",
     "href": "posts/pororo.html",
     "title": "뽀롱뽀롱",
@@ -61,5 +40,33 @@
     "title": "뽀롱뽀롱",
     "section": "준비됐나요?",
     "text": "준비됐나요?\n\n\n\n\n\n\n옜날\n\n\n\n준비됐나요? -&gt; 준비됐어요~\n\n\n\n\n\n\n\n\n요즘\n\n\n\n준비됐나요? -&gt; 네네, 선생님!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test",
+    "section": "",
+    "text": "Test\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 2, 2025\n\n\ncode\n\n\n장하니 \n\n\n\n\nJan 2, 2025\n\n\n뽀롱뽀롱\n\n\n최다호 \n\n\n\n\nJan 2, 2025\n\n\n프랑스혁명\n\n\n최규빈 \n\n\n\n\nJan 2, 2025\n\n\ntest\n\n\nSoonwonKWON \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/code.html",
+    "href": "posts/code.html",
+    "title": "code",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt \nx = np.random.randn(100)\nplt.plot(x)"
+  },
+  {
+    "objectID": "posts/france.html",
+    "href": "posts/france.html",
+    "title": "프랑스혁명",
+    "section": "",
+    "text": "프랑스 혁명(1789년 5월 5일 ~ 1799년 11월 9일)은 프랑스의 절대 왕정과 봉건제를 타파하고 공화정을 수립한 시민 혁명입니다.\n혁명은 삼부회의 소집에서 시작되었으며, 국민의회가 결성되고 바스티유 감옥 습격으로 절정에 달했습니다.\n자유, 평등, 박애라는 이념이 혁명의 핵심 가치로 자리 잡았고, 전 세계 민주주의 발전에 영향을 미쳤습니다.\n혁명 과정에서 루이 16세가 처형되고, 프랑스는 공화정을 선언하였습니다.\n이후 로베스피에르의 공포정치와 나폴레옹의 집권으로 이어졌습니다.\n봉건제 폐지, 인권 선언, 토지 재분배 등이 이루어졌으며, 계급 간 격차 해소에 기여했습니다.\n혁명은 프랑스 내뿐 아니라 유럽 전역에 민족주의와 민주주의 사상의 확산을 촉진했습니다.\n프랑스 혁명은 많은 혼란과 희생을 초래했지만, 근대 시민사회의 초석을 마련했습니다.\n혁명 기념일은 매년 7월 14일로, 바스티유 데이로 불리며 프랑스의 국경일입니다.\n이 혁명은 현대 세계사에서 가장 중요한 정치적, 사회적 사건 중 하나로 평가됩니다.\n\n출처: 프랑스 혁명 - 위키백과"
   }
 ]
